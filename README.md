@@ -3,7 +3,7 @@
 # HotJava
 
 ##  Introducción
-HotJava es un navegador web modular y extensible de Sun Microsystems que se creó en 1995.
+HotJava es un navegador web de Sun Microsystems que se creó en 1995.
 
 ## Historia
 
